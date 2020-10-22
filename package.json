@@ -1,7 +1,7 @@
 {
-  "name": "mosh-hamedani",
+  "name": "webpack config for production and development",
   "version": "1.0.0",
-  "description": "",
+  "description": "This boilerplate is a webpack configuration for production and development",
   "main": "index.js",
   "scripts": {
     "start": "webpack --config=webpack.config.dev.js",
